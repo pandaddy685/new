@@ -36,7 +36,13 @@
     <addaction name="separator"/>
     <addaction name="action_X"/>
    </widget>
+   <widget class="QMenu" name="menu_2">
+    <property name="title">
+     <string>編輯</string>
+    </property>
+   </widget>
    <addaction name="menu"/>
+   <addaction name="menu_2"/>
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
   <action name="actionfkd">
